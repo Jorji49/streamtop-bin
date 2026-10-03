@@ -1,6 +1,6 @@
 ﻿# streamtop-bin
 
-Arch Linux packaging for [streamtop](https://github.com/Jorji49/streamtop) **v0.3.3**.
+Arch Linux packaging for [streamtop](https://github.com/Jorji49/streamtop) **v1.5.2**.
 
 ## Install
 
@@ -10,4 +10,4 @@ cd streamtop-bin
 makepkg -si
 ```
 
-Official AUR upload requires an AUR account + SSH key for `aur@aur.archlinux.org`. This repo is the maintained PKGBUILD + `.SRCINFO` mirror until then.
+This repository is a PKGBUILD and `.SRCINFO` mirror. `streamtop-bin` is not published on the AUR.
