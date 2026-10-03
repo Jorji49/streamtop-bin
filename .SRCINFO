@@ -1,15 +1,15 @@
 pkgbase = streamtop-bin
 	pkgdesc = Terminal HLS, DASH, and IPTV stream monitor with wire probes and metrics
-	pkgver = 1.1.2
+	pkgver = 1.5.2
 	pkgrel = 1
 	url = https://github.com/Jorji49/streamtop
 	arch = x86_64
 	license = MIT
 	provides = streamtop
 	conflicts = streamtop
-	source = streamtop-bin-1.1.2.tar.gz::https://github.com/Jorji49/streamtop/releases/download/v1.1.2/streamtop-x86_64-unknown-linux-gnu.tar.gz
-	source = LICENSE::https://raw.githubusercontent.com/Jorji49/streamtop/v1.1.2/LICENSE
-	sha256sums = 5624f1586e90faed8e4234f555414dba7b7b6394694db9738448ddbfd4127325
+	source = streamtop-bin-1.5.2.tar.gz::https://github.com/Jorji49/streamtop/releases/download/v1.5.2/streamtop-x86_64-unknown-linux-gnu.tar.gz
+	source = LICENSE::https://raw.githubusercontent.com/Jorji49/streamtop/v1.5.2/LICENSE
+	sha256sums = fdd9f1c8afdc73d3fc55f7ec663e2e990c96fd5601caeef6a23102de59a940de
 	sha256sums = 17ae2f4382f88ddcc4dafa488d59401dbb0d3a59d7f1a967c715cd13fbfa9f3d
 
 pkgname = streamtop-bin
